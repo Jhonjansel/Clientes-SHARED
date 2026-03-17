@@ -1,0 +1,9 @@
+C:\Users\Jhonjansel\source\repos\Clientes.Shared\bin\Debug\Clientes.Shared.dll
+C:\Users\Jhonjansel\source\repos\Clientes.Shared\bin\Debug\Clientes.Shared.pdb
+C:\Users\Jhonjansel\source\repos\Clientes.Shared\obj\Debug\Clientes.Shared.csproj.AssemblyReference.cache
+C:\Users\Jhonjansel\source\repos\Clientes.Shared\obj\Debug\Clientes.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jhonjansel\source\repos\Clientes.Shared\obj\Debug\Clientes.Shared.dll
+C:\Users\Jhonjansel\source\repos\Clientes.Shared\obj\Debug\Clientes.Shared.pdb
+C:\Users\Jhonjansel\source\repos\Clientes.Shared\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhonjansel\source\repos\Clientes.Shared\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhonjansel\source\repos\Clientes.Shared\obj\Debug\Clientes.28883B26.Up2Date
